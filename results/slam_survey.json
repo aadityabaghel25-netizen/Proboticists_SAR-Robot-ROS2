@@ -1,0 +1,10 @@
+{
+  "source": "live_odometry_survey",
+  "status": "complete",
+  "stops": 8,
+  "final_odom": [
+    0.05336290911763173,
+    -0.05927701648822711,
+    0.03379790871009684
+  ]
+}

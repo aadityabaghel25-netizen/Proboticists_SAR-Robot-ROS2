@@ -1,0 +1,2 @@
+from setuptools import setup
+setup(name='sar_mission',version='0.1.0',packages=['sar_mission'],data_files=[('share/ament_index/resource_index/packages',['resource/sar_mission']),('share/sar_mission',['package.xml'])],entry_points={'console_scripts':['registry=sar_mission.registry:main','export_results=sar_mission.export_results:main','patrol=sar_mission.patrol:main','survey=sar_mission.survey:main']})

@@ -1,0 +1,12 @@
+detector:
+  ros__parameters:
+    image_topic: /camera/image_raw
+    camera_info_topic: /camera/camera_info
+    cylinder_radius_m: 0.13
+    minimum_area_px: 100.0
+    minimum_range_m: 0.35
+    maximum_range_m: 5.0
+    hsv_lower_1: [0, 100, 60]
+    hsv_upper_1: [10, 255, 255]
+    hsv_lower_2: [170, 100, 60]
+    hsv_upper_2: [179, 255, 255]

@@ -1,0 +1,78 @@
+{
+  "source": "nav2_action_results",
+  "status": "complete",
+  "waypoints": [
+    {
+      "index": 1,
+      "x": 1.8,
+      "y": 1.8,
+      "yaw": 0.7853981633974483,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 2,
+      "x": 0.0,
+      "y": 0.0,
+      "yaw": -2.356194490192345,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 3,
+      "x": -1.8,
+      "y": 1.8,
+      "yaw": 2.356194490192345,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 4,
+      "x": 0.0,
+      "y": 0.0,
+      "yaw": -0.7853981633974483,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 5,
+      "x": -1.8,
+      "y": -1.8,
+      "yaw": -2.356194490192345,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 6,
+      "x": 0.0,
+      "y": 0.0,
+      "yaw": 0.7853981633974483,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 7,
+      "x": 1.8,
+      "y": -1.8,
+      "yaw": -0.7853981633974483,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    },
+    {
+      "index": 8,
+      "x": 0.0,
+      "y": 0.0,
+      "yaw": 2.356194490192345,
+      "success": true,
+      "result": "TaskResult.SUCCEEDED",
+      "timed_out": false
+    }
+  ]
+}

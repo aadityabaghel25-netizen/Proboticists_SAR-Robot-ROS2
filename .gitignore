@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+install/
+log/
+tmp/
+results/*.bag/
+results/rosbag2_*/
+.DS_Store

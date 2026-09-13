@@ -1,0 +1,58 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+Visualization Manager:
+  Class: ""
+  Global Options:
+    Fixed Frame: map
+    Background Color: 38; 42; 48
+  Displays:
+    - Class: rviz_default_plugins/Grid
+      Name: Grid
+      Enabled: true
+      Cell Size: 1
+    - Class: rviz_default_plugins/Map
+      Name: Saved Map
+      Enabled: true
+      Topic:
+        Value: /map
+        Durability Policy: Transient Local
+      Color Scheme: map
+    - Class: rviz_default_plugins/RobotModel
+      Name: Waffle
+      Enabled: true
+      Description Topic:
+        Value: /robot_description
+    - Class: rviz_default_plugins/LaserScan
+      Name: LiDAR
+      Enabled: true
+      Topic:
+        Value: /scan
+        Reliability Policy: Best Effort
+      Size (m): 0.03
+    - Class: rviz_default_plugins/MarkerArray
+      Name: Victim Registry
+      Enabled: true
+      Marker Topic:
+        Value: /victim_markers
+        Durability Policy: Transient Local
+    - Class: rviz_default_plugins/Path
+      Name: Navigation Path
+      Enabled: true
+      Topic:
+        Value: /plan
+    - Class: rviz_default_plugins/Image
+      Name: Camera Detections
+      Enabled: true
+      Topic:
+        Value: /detections/image
+        Reliability Policy: Best Effort
+  Views:
+    Current:
+      Class: rviz_default_plugins/TopDownOrtho
+      Name: Building
+      Scale: 65
+      Target Frame: map
+Window Geometry:
+  Width: 1280
+  Height: 850

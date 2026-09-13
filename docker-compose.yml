@@ -1,0 +1,21 @@
+services:
+  sar:
+    platform: linux/amd64
+    build: .
+    image: sar-humble:local
+    container_name: sar
+    init: false
+    shm_size: 1gb
+    ports:
+      - "127.0.0.1:6080:6080"
+    environment:
+      SAR_DESKTOP: "1"
+      DISPLAY: ":99"
+      ROS_DOMAIN_ID: "23"
+      ROS_LOCALHOST_ONLY: "1"
+      TURTLEBOT3_MODEL: waffle
+      LIBGL_ALWAYS_SOFTWARE: "1"
+    volumes:
+      - ./results:/ws/results
+    command: ["ros2", "launch", "sar_bringup", "mission.launch.py", "rviz:=true", "patrol:=false"]
+    stop_grace_period: 20s

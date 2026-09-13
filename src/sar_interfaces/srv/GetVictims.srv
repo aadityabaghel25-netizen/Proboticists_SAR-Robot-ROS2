@@ -1,0 +1,4 @@
+---
+sar_interfaces/Victim[] victims
+bool success
+string message

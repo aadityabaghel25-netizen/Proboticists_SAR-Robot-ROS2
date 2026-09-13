@@ -1,0 +1,8 @@
+{
+  "source": "slam_toolbox_and_nav2_map_saver",
+  "saved_at_utc": "2026-09-11T11:27:53.758374+00:00",
+  "files": {
+    "maps/building.yaml": "207439d31f97a4e87b1dfd5755be2da41a4760dccdf539e5d622f8c3313d6dd2",
+    "maps/building.pgm": "3a2a94e6f2af8eb18248d09a633fd497d3826e96d8605848e2f2669fba5cc735"
+  }
+}

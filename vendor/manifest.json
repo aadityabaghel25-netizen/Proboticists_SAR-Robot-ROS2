@@ -1,0 +1,57 @@
+[
+  {
+    "file": "waffle.original.sdf",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3_simulations/a35a56c8b04877dc89772b598084d8ce648a9023/turtlebot3_gazebo/models/turtlebot3_waffle/model.sdf",
+    "sha256": "c502e1034e38b0cb678434631ec8f4ff9f33f6b7985ded11daae5e1f77ed2234"
+  },
+  {
+    "file": "TURTLEBOT3_SIMULATIONS_LICENSE",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3_simulations/a35a56c8b04877dc89772b598084d8ce648a9023/LICENSE",
+    "sha256": "ac8793d277f1a08231d10e1b2ebaabb0598bd5561cfc21f97648656b416d901e"
+  },
+  {
+    "file": "waffle.original.urdf",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/turtlebot3_description/urdf/turtlebot3_waffle.urdf",
+    "sha256": "f9fa59f734cf444f857effaa2334a1b71e0f07bacc63d029accf3f5093c69032"
+  },
+  {
+    "file": "TURTLEBOT3_LICENSE",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/LICENSE",
+    "sha256": "f9946796a8a5bd5981565142fa42e3b0cc36aef6f80e86beaf5905b3c0fef1b5"
+  },
+  {
+    "file": "nav2.original.yaml",
+    "url": "https://raw.githubusercontent.com/ros-navigation/navigation2/3c3db59d6969d8ecee8e68468693d006397f4a0c/nav2_bringup/params/nav2_params.yaml",
+    "sha256": "21f6a890657da341a854efce403c895304a3ebc1a8f91f466348e720f2641380"
+  },
+  {
+    "file": "NAV2_LICENSE",
+    "url": "https://raw.githubusercontent.com/ros-navigation/navigation2/3c3db59d6969d8ecee8e68468693d006397f4a0c/LICENSE",
+    "sha256": "e71fcb65bd31cdbdcf50cf43ab87a0c600ea3ec407495c2e15d1e68bc9c3bfc1"
+  },
+  {
+    "file": "meshes/bases/waffle_base.stl",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/turtlebot3_description/meshes/bases/waffle_base.stl",
+    "sha256": "fcc85458c31f6c4bf2afdc93469128c49723189c5a4c07b8c91baebc132e9a0d"
+  },
+  {
+    "file": "meshes/wheels/left_tire.stl",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/turtlebot3_description/meshes/wheels/left_tire.stl",
+    "sha256": "578c9452ee51c2f71e5e6723b503d784e58a6ac317fa53ee308e645f204c8d6a"
+  },
+  {
+    "file": "meshes/wheels/right_tire.stl",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/turtlebot3_description/meshes/wheels/right_tire.stl",
+    "sha256": "407aaf271ba7051c6186b220e1dc36b2a6eca688fced66a3347f49747b684596"
+  },
+  {
+    "file": "meshes/sensors/lds.stl",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/turtlebot3_description/meshes/sensors/lds.stl",
+    "sha256": "98f0bd7046159f83caab9509293112ef13534368535669124b91b5114c3132f6"
+  },
+  {
+    "file": "meshes/sensors/r200.dae",
+    "url": "https://raw.githubusercontent.com/ROBOTIS-GIT/turtlebot3/90a68bd2e3c61c12966779da89d8eeaec82730e9/turtlebot3_description/meshes/sensors/r200.dae",
+    "sha256": "ef8122d367ec4abc4ff5b1aa31c9c90f161648907ad9da7c503db1244692342a"
+  }
+]
