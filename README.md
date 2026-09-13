@@ -153,6 +153,4 @@ It never manufactures a SLAM map or live victim results.
 - [Viva questions and beginner lessons](docs/learning.md)
 - [Recovered specification text](docs/specification-recovered.txt)
 
-The specification also requests a public GitHub link, Google Drive folder, demo
-recording, and a 1–2 page design PDF. These are separate submission requirements;
-local code creation does not publish anything to your accounts.
+
